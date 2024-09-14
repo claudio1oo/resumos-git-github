@@ -13,7 +13,7 @@ Fazendo teste
 
 | Assunto | Repositório |
 |-----:|-----------|
-| Gravando alterações no Repositório Local | [Teste] (https://google.com). |
+| Gravando alterações no Repositório Local | Teste |
 
 
 ```
